@@ -1,5 +1,5 @@
 # PowerBI-Sales-Performance-Dashboard
-[Dashboard](images/dashboard.png)
+https://github.com/clementemma10/PowerBI-Sales-Performance-Dashboard-/blob/main/dashboard.png
 Sales Performance Dashboard: Regional, Product and Customer Insights
 
 I created an interactive Power BI report from a real public dataset (Kaggle Sample Sales Data: 2,823 order lines, 307 orders, 19 countries, Jan 2003 to May 2005) to identify where revenue originates and how it evolves through time.
