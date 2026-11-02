@@ -1,4 +1,4 @@
-# PowerBI-Sales-Performance-Dashboard
+# PowerBI-Sales-Performance-Dashboard power-bi, data-analysis, dax, data-visualization and portfolio
 
 https://github.com/clementemma10/PowerBI-Sales-Performance-Dashboard-/blob/main/dashboard.png
 
